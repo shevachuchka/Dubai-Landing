@@ -1,0 +1,23 @@
+{
+  "name": "dubai",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shevachuchka/Dubai-Landing.git"
+  },
+  "author": "shevachuchka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shevachuchka/Dubai-Landing/issues"
+  },
+  "homepage": "https://github.com/shevachuchka/Dubai-Landing#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
